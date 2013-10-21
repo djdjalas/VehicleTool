@@ -1,6 +1,6 @@
 public class Vehicle {
 
 	private void hello() {
-		System.out.println("hello");
+		System.out.println("");
 	}
 }
